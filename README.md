@@ -30,12 +30,7 @@ This app uses the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
 4. Run the app on an emulator or a physical device.
 
 ## 🎭 Screenshots
-_(Add screenshots here)_
-
-## 🌟 Future Improvements
-- Add **search functionality**.
-- Implement **pagination for more Pokémon**.
-- Improve UI with **animations and better styling**.
+![alt text](https://cdn-images-1.medium.com/max/1000/1*9-Z9oz2J_TtakNCCjroDTg.gif)
 
 ## 🚀 Contributing
 Feel free to **fork** this repository and submit a **pull request** if you have improvements!
