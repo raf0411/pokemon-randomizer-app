@@ -29,7 +29,7 @@ This app uses the [PokéAPI](https://pokeapi.co/) to fetch Pokémon data.
 3. Sync the Gradle dependencies.
 4. Run the app on an emulator or a physical device.
 
-## 🎭 Screenshots
+## 🎭 Screenshot
 ![alt text](https://cdn-images-1.medium.com/max/1000/1*9-Z9oz2J_TtakNCCjroDTg.gif)
 
 ## 🚀 Contributing
